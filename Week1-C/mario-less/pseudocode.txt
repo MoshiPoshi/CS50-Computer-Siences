@@ -1,0 +1,8 @@
+1. ask the user for the height
+2. Read the input and store it in the height variable.
+3. Check if the height is less than 1 or greater than 8. If it is, show an error message and exit the program.
+4. use a loop to loop from 1 to height to print each row of the pyramid.
+5. For each row, loop through (height - row) times and print a space each time.
+6. loop through row times and print a hash character each time.
+7. Go to the next line at the end of the row.
+8. Exit the program.
